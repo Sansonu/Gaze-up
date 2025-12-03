@@ -1,0 +1,8 @@
+{
+  "name": "Copy of GazeOS - AI Eye Tracking Interface",
+  "description": "A hands-free web operating system controlled by eye blinks and head movements, powered by Google Gemini.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
